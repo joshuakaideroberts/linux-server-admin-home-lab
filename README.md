@@ -390,8 +390,4 @@ During the lab, several issues were identified and resolved:
 
 ## Project Outcome
 
-This lab successfully created a small business Linux server environment with SSH access, firewall protection, department users and groups, shared folder permissions, access control testing, log review, service monitoring, and backup automation. The project demonstrates practical junior Linux systems administration skills that apply to real business server environments.
-
-## Resume Bullet
-
-Built and secured an Ubuntu Server 24.04 Linux home lab with SSH administration, UFW firewall rules, user and group management, shared directory permissions, access control testing, Bash backup automation, log review, and service monitoring to demonstrate practical Linux systems administration skills.
+This lab successfully created a small business Linux server environment with SSH access, firewall protection, department-based users and groups, shared directory permissions, access control testing, log review, service monitoring, and backup automation. The project demonstrates practical junior Linux systems administration skills that apply to real business server environments.
